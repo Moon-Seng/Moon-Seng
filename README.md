@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moon Seng</h1>
-<h3 align="center">React Front-end Developer</h3>
+<h3 align="left">React Front-end Developer</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
