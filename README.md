@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React,Vue,MUI,and Jest**
+- 💬 Ask me about **Python , JavaScript , React and Django**
 
 - 📫 How to reach me **moonseng.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wj2euhq8mxxA_KVkRiaAIoh15UngPKXE/view?usp=sharing](https://drive.google.com/file/d/1wj2euhq8mxxA_KVkRiaAIoh15UngPKXE/view?usp=sharing)
+- 📄 Know about my experiences https://www.canva.com/design/DAGMCS_CL-w/OiyHXK3N6XSKhtA1owZzFQ/edit?utm_content=DAGMCS_CL-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
