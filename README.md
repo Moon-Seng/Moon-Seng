@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moon Seng</h1>
-<h3 align="center">A passionate React Django Full Stack Developer from Myanmar</h3>
+<h3 align="">A passionate React Django Full Stack Developer from Myanmar</h3>
 
 - 🔭 I’m currently working on [Salespoint](https://app.salespoint.com.mm/)
 
